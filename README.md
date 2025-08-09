@@ -11,7 +11,6 @@ A simple React weather application that allows users to search for a city and vi
 - Animated weather icons powered by Lottie.
 - Responsive design with Tailwind CSS.
 - Clean UI with gradient backgrounds and smooth transitions.
-- Clear empty state message displayed above the search bar when no data is loaded.
 
 ---
 
@@ -26,7 +25,7 @@ A simple React weather application that allows users to search for a city and vi
 - React
 - Tailwind CSS
 - Lottie for animations
-- React Weather Icons (`react-icons/wi`)
+- React Weather Icons
 - OpenWeatherMap API or any other weather API
 
 ---
@@ -37,7 +36,7 @@ A simple React weather application that allows users to search for a city and vi
 
    ```bash
    git clone https://github.com/your-username/weather-app.git
-   cd weather-app
+   cd WEATHER_WEB_PAGE
    imp install
    add api keys in .env
    npm run dev
